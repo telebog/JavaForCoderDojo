@@ -1,0 +1,70 @@
+ 1.  Se citesc de la tastatură două numere. Care este valoarea celui mai mic? De exemplu dacă a=5 și b=7 se va afișa 5.
+ 
+ 2.  Fie a si b doua numere intregi citite de la tastatura. Scrieti un algoritm care sa verifice daca a si b sunt numere consecutive.
+  
+ 3.  Se citesc de la tastatura 3 numere. Să se verifice dacă s-au citit în ordine crescătoare.
+  
+ 4.  Să se verifice dacă toate cele 3 numere citite de la tastatură sunt numere pare.
+  
+ 5.  Se introduc vârstele a trei copii. Care este vârsta celui mai mare și care este diferența de vârstă dintre cel mai mare și cel mai mic. 
+     De exemplu v1=5, v2=8, v3=3 se va afișa vârsta cea mai mare este 8 și diferența de vârtă este 5.
+  
+ 6.  Se introduc punctajele obținute de doi sportivi. Afișați-le în ordine descrescătoare. 
+     De exemplu dacă se introduc p1=4 și p2=10 se afișează 10 4.
+  
+ 7.  Se introduc de la tastatură mediile a 3 elevi. Afișați mediile în ordine crescătoare. 
+     De exemplu dacă se introduc m1=8.60, m2=6.90 și m3=5.90 se va afișa 5.90 6.90 8.60.
+
+ 8.  Scrieti un algoritm care sa citeasca 3 caractere si sa determine cate caractere distincte s-au citit.
+
+ 9.  Sa se scrie un program care sa afiseze cate numere pare se afla in intervalul [a, b].a si b sunt 2 numere intregi care se citesc de la 
+     tastatura. (se va folosi if si se va face discutie dupa paritatea lui a si b).
+
+10.  Se citesc de la tastatură 4 numere. Câte dintre ele sunt numere pare?
+
+11.  Se citesc de la tastatură patru numere. Să se dubleze valoarea celui mai mare și să se tripleze valoarea celui mai mic. 
+     De exemplu a=4 b=6 c=2 d=3 se va afișa 4 12 6 3.
+
+12.  Se citesc de la tastatură 3 numere întregi reprezentând valoarea numerelor care se găsesc într-o cutie. 
+     Din cutie se extrag două numere. Cunoscând suma numere extrase, să se afişeze numărul rămas în cutie. 
+     Să se trateze și cazurile în care suma introdusă este greșită și nu se poate găsi adevărata valoare a celui de-al treilea număr. 
+     De exemplu dacă se citesc a1=2, a2=4, a3=6 și s=8 se va afișa 4..
+
+13.  Se citesc de la tastatură patru numere. Să se dubleze valoarea celui mai mare și să se tripleze valoarea celui mai mic. 
+     De exemplu a=4 b=6 c=2 d=3 se va afișa 4 12 6 3.
+
+
+Probleme pentru ninja din clase mai mari:
+14.  Se citesc de la tastatură două numere naturale reprezentând lungimile razelor a două cercuri și un număr d reprezentând distanța 
+     între cele două cercuri. Care este pozia celor două cercuri unul față de altul: tangente, inersectate, disjuncte?
+
+15.  Se citesc coordonatele a două puncte din spațiu. Care este distanța dintre ele?
+
+16.  Se citesc de la tastatură coordonatele a 3 puncte din spațiu. Ce fel de triunghi formează?
+
+17.  Să se rezolve ecuația de gradul I ax+b=0 dacă se citesc de la tastatură valorile lui a și b.
+
+18.  Să se rezolve ecuația de gradul II ax2+bx+c=0 dacă se citesc de la tastatură valorile pentru a, b și c.
+
+19.  Să se afișeze |ax+b| dacă se cunosc valorile pentru a,b și x.
+
+20.  Fie sistemul de ecuații liniare
+        Ax+By=C
+        Dx+Ey=F.
+     Să se scrie un program care citește coeficienții A, B, C, D, E, F ai unui sistem de două ecuații liniare cu două necunoscute. 
+     Care este soluția sistemului?
+
+21.  Se citesc de la tastatură 2 numere cu cel mult 4 cifre. Care dintre ele are suma cifrelor mai mare?
+
+22.  Se citește de la tastatură un număr cu trei cifre. Să se afișeze cifrele numărului în ordine crescătoare.
+
+23.  Se citesc de la tastatură două numere. Care este valoarea expresiei: ab/(a-b) ?
+
+24.  Se citesc de la tastatură două numere reale. Care este media lor aritmetică? Dar gerometrică?
+
+25.  Se citesc de la tastatură valorile a trei numere reale. Să se verifice dacă pot forma laturile unui triunghi iar în caz 
+     afirmativ să se afișeze aria și perimetrul triunghiului.
+     
+26.  Se citesc de la tastatura 3 numere reale. Să se verifice dacă pot forma laturile unui triunghi.
+
+Citește mai mult: http://infoliceu.webnode.com/clasa-a-x-a-c/instructiunea-if/exercitii-rezolvate/
