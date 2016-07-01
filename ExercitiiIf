@@ -33,38 +33,35 @@
 13.  Se citesc de la tastatură patru numere. Să se dubleze valoarea celui mai mare și să se tripleze valoarea celui mai mic. 
      De exemplu a=4 b=6 c=2 d=3 se va afișa 4 12 6 3.
 
+14.  Se citesc de la tastatură 2 numere cu cel mult 4 cifre. Care dintre ele are suma cifrelor mai mare?
+
+15.  Se citește de la tastatură un număr cu trei cifre. Să se afișeze cifrele numărului în ordine crescătoare.
+
+16.  Se citesc de la tastatură două numere. Care este valoarea expresiei: ab/(a-b) ?
 
 Probleme pentru ninja din clase mai mari:
-14.  Se citesc de la tastatură două numere naturale reprezentând lungimile razelor a două cercuri și un număr d reprezentând distanța 
+50.  Se citesc de la tastatură două numere naturale reprezentând lungimile razelor a două cercuri și un număr d reprezentând distanța 
      între cele două cercuri. Care este pozia celor două cercuri unul față de altul: tangente, inersectate, disjuncte?
 
-15.  Se citesc coordonatele a două puncte din spațiu. Care este distanța dintre ele?
+51.  Se citesc coordonatele a două puncte din spațiu. Care este distanța dintre ele?
 
-16.  Se citesc de la tastatură coordonatele a 3 puncte din spațiu. Ce fel de triunghi formează?
+52.  Se citesc de la tastatură coordonatele a 3 puncte din spațiu. Ce fel de triunghi formează?
 
-17.  Să se rezolve ecuația de gradul I ax+b=0 dacă se citesc de la tastatură valorile lui a și b.
+53.  Să se rezolve ecuația de gradul I ax+b=0 dacă se citesc de la tastatură valorile lui a și b.
 
-18.  Să se rezolve ecuația de gradul II ax2+bx+c=0 dacă se citesc de la tastatură valorile pentru a, b și c.
+54.  Să se rezolve ecuația de gradul II ax2+bx+c=0 dacă se citesc de la tastatură valorile pentru a, b și c.
 
-19.  Să se afișeze |ax+b| dacă se cunosc valorile pentru a,b și x.
+55.  Să se afișeze |ax+b| dacă se cunosc valorile pentru a,b și x.
 
-20.  Fie sistemul de ecuații liniare
+56.  Fie sistemul de ecuații liniare
         Ax+By=C
         Dx+Ey=F.
      Să se scrie un program care citește coeficienții A, B, C, D, E, F ai unui sistem de două ecuații liniare cu două necunoscute. 
      Care este soluția sistemului?
-
-21.  Se citesc de la tastatură 2 numere cu cel mult 4 cifre. Care dintre ele are suma cifrelor mai mare?
-
-22.  Se citește de la tastatură un număr cu trei cifre. Să se afișeze cifrele numărului în ordine crescătoare.
-
-23.  Se citesc de la tastatură două numere. Care este valoarea expresiei: ab/(a-b) ?
-
-24.  Se citesc de la tastatură două numere reale. Care este media lor aritmetică? Dar gerometrică?
-
-25.  Se citesc de la tastatură valorile a trei numere reale. Să se verifice dacă pot forma laturile unui triunghi iar în caz 
-     afirmativ să se afișeze aria și perimetrul triunghiului.
      
-26.  Se citesc de la tastatura 3 numere reale. Să se verifice dacă pot forma laturile unui triunghi.
+57.  Se citesc de la tastatură două numere reale. Care este media lor aritmetică? Dar gerometrică?
+
+58.  Se citesc de la tastatură valorile a trei numere reale. Să se verifice dacă pot forma laturile unui triunghi iar în caz 
+     afirmativ să se afișeze aria și perimetrul triunghiului.
 
 Citește mai mult: http://infoliceu.webnode.com/clasa-a-x-a-c/instructiunea-if/exercitii-rezolvate/
