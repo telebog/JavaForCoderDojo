@@ -1,0 +1,51 @@
+2) Sa se scrie un program care calculeza suma primelor n numere naturale cu "for"
+
+3) Sa se scrie un program care calculeaza suma primelor n numere naturale cu "while"
+
+4) Sa se scrie un program care calculeaza suma primelor n numere naturale cu "do while"
+
+5) Sa se scrie un program care rezolva ecuatia de gradul al II-lea
+
+6) sa se scrie un program care calculeaza valoarea expresiei S=1-2+3-4+....+, folosind functii proprii
+
+7) Sa se scrie un program care calculeaza valoarea expresiei: P=1*2*3*4*...*n
+
+8) Sa se scrie un program care calculeaza valoarea expresiei: P=1*(1/2)*3*(1/4)*5*(1/6)*...n
+
+9) Sa se scrie un program care calculeaza valoarea expresiei: S=1+1*2+1*2*3+1*2*3*4+1*2*3*4*5+...+1*2*...*n
+
+10) Sa se scrie un program care calculeaza x la puterea y (folosind functia pow)
+
+11) Se citeste un text format din cuvinte ce pot fi despartite prin spatiu sau virgula. Textul citit se termina cu punct sau enter. Sa se contorizeze vocalele si consoanele din acel text
+
+12) Se citeste un text format din cuvinte ce pot fi despartite prin spatiu sau virgula. Textul citit se termina cu punct sau enter. Sa se contorizeze vocalele si consoanele din acel text. Sa se rezolve problema folosind o bucla repetitiva conditionata posterior
+
+13) Sa se contorizeze numarul de vocale si cel de consoane din alfabet, folosind instructiunea de salt "goto"
+
+14) Sa se afiseze din intregul alfabet doar literele caractere mari pana la 'M'.
+Bucla se va incheia in mod voit, prin folosirea instructiunii "break"
+
+15) Sa se transforme un numar din baza 10 intr-o baza p, 2<=p<=10
+
+16) Sa se realizeze un program care intr-o bucla "while" calculeaza suma cifrelor unui numar introdus de la tastatura si afiseaza inversul lui
+
+17) Fiind furnizate 3 numere intregi sa se verifice daca acestea pot fi masurile unui triunghi, si in caz afirmativ sa se calculeze perimetrul
+
+18) Sa se calculeze valoarea functiei f definita pe multimea numerelor reale pentru un x citit:
+     | x-3, ptr. x<5
+   F=| x+1, ptr. 5>x>25
+     | x-5x+6,ptr. x>25
+
+19) Sa se afiseze suma cifrelor unui numar natural dat
+
+20) Sa se calculeze suma S=1!+2!+3!+…+n!
+
+21) Sa se calculeze produsul: P=2*4*6*8*10*…*n
+
+22) Sa se calculeze suma S=1^2+2^2+3^2+4^2+...+n^2
+
+23) Sa se calculeze suma S=1-1*2+1*2*3-...±1*2*3*...*n
+
+24) Sa se transforme un numar din baza 10 în baza p<10
+
+http://info64.ro/Instructiuni/
